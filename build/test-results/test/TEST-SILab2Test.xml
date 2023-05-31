@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-31T19:44:22" hostname="PETARPC" time="0.017">
+  <properties/>
+  <testcase name="MultipleConditionTest()" classname="SILab2Test" time="0.014"/>
+  <testcase name="EveryBranchTest()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[-----------------------------------------
+Starting Tests...
+Multiple Condition Test finished.
+Every Branch Test finished.
+All tests passed successfully!
+-----------------------------------------
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
