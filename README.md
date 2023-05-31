@@ -8,4 +8,11 @@
 ### **3. Цикломатска комплексност**
 Цикломатската комплексност на дадениот код е 11 според формулата P + 1, каде P е бројот на предикатни јазли и P = 10. 
 
+### **4. Every Branch**
+[EveryBranch.xlsx](https://github.com/XpertPetar/SI_2023_lab2_216109/files/11618012/EveryBranch.xlsx)
+
+### **5. Multiple Condition**
+[MultipleCondition.xlsx](https://github.com/XpertPetar/SI_2023_lab2_216109/files/11618014/MultipleCondition.xlsx)
+
+
 
